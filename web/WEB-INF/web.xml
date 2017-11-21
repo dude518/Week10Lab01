@@ -42,7 +42,7 @@
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>NoteServlet</servlet-name>
-        <url-pattern>/note</url-pattern>
+        <url-pattern>/notes</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
